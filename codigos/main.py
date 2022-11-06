@@ -1,10 +1,8 @@
 import simulador
 import controle
 
-
-import time
 import os
-import sys
+
 
 
 lista_f = controle.lista_f() # Lista com todas as filas de pacientes #
